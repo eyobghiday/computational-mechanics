@@ -12,3 +12,4 @@ Use Python and Matlab for all questions below (unless some derivation is require
 better by hand). If using and include all required great if you could use it). If using MATLAB, use commented.
 
 ![](images/assignment01.jpg)
+![](images/assignment01.png)
