@@ -1,4 +1,4 @@
-# computational-mechanics
+# Computational Mechanics
 This is a collection of assignments I worked for a Fall 2020 class.
 Computational Mechanics is solving engineering problems using codes & programs. The language used here is Python, but it can be Java, Javascript or Matlab as well. 
 
