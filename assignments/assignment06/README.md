@@ -10,7 +10,8 @@
 4. Engineering applications.
 5. Taylor Series and Sail functions.
 6. The pendulum problem. 
-7. The FA-18 Jet Engine analysis.
+7. The FA-18 Jet Engine analysis using Fourier transform. 
+8. Note that the Jet engine problem is solved in a separate file. Make sure to check it. 
 
 Use Python and Matlab for all questions below (unless some derivation is required which you can do
 better by hand). If using and include all required great if you could use it). If using MATLAB, use commented.
