@@ -9,3 +9,5 @@ Read the assignment question first.
 If there's a data sheet to be used (usually a csv file) download it and make sure to import it in your notebook code.
 Understand the question and try the codes. 
 Good day.
+### Questions?
+The codes I wrote here are purely for eucational purposes, so please take caution when you refer to them. For questions, comments, edit and changes, please contact me. Or tag my username <b> @eyobghiday </b> in the code.
